@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+}
+html{
+    background-color: black;
+}
+.tit{
+    font-family: 'New Tegomin', serif;
+    font-size: 60px;
+    align-items: center;
+    display: block;
+    color: red;
+    text-align: center;
+}
+.rel{
+    font-family: 'New Tegomin', serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    align-items: center;
+    display: block;
+    text-align: center;
+    color: aqua;
+    margin-left: 30px;
+    margin-right: 30px;
+}
